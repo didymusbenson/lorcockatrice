@@ -1,3 +1,6 @@
+### Update 3/17/25
+Life has gotten in the way and as you can probably tell I'm behind by several sets. I had goals with Lorcana tools that ultimately I'm not going to end up pursuing. I'll publish my source script shortly with a brief guide. It was half automated half manual and I wasn't happy with it enough to publish but I simply cannot prioritize this right now so I'll leave it in your hands dear viewer.
+
 ### Update 5/30/24
 Added additional metadata to cards for better searchability. 
 
