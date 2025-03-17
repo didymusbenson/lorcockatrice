@@ -1,5 +1,5 @@
 ### Update 3/17/25
-Life has gotten in the way and as you can probably tell I'm behind by several sets. I had goals with Lorcana tools that ultimately I'm not going to end up pursuing. I'll publish my source script shortly with a brief guide. It was half automated half manual and I wasn't happy with it enough to publish but I simply cannot prioritize this right now so I'll leave it in your hands dear viewer.
+Life has gotten in the way and as you can probably tell I'm behind by several sets. I had goals with Lorcana tools that ultimately I'm not going to end up pursue. I have added my source scripts, anyone who can read code should be able to pretty quickly understand how this works and pull new sets. You can get an up to date source JSON from https://lorcanajson.org/
 
 ### Update 5/30/24
 Added additional metadata to cards for better searchability. 
