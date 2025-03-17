@@ -1,0 +1,19 @@
+{
+  "name": "lorcana-to-cockatrice",
+  "version": "1.0.0",
+  "description": "convert lorcana sets to cockatrice sets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lorcana",
+    "cockatrice",
+    "tcg"
+  ],
+  "author": "Diddy",
+  "license": "ISC",
+  "dependencies": {
+    "jstoxml": "^5.0.1"
+  }
+}

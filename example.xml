@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+    <name>Lorcana</name>
+    <longname>Lorcana</longname>
+    <settype>Custom</settype>
+    <releasedate>2019-04-20</releasedate>
+    </set>  
+  </sets>
+<cards>
+<card>
+  <name>Card name</name>
+  <text>Card description and oracle text, including actions, effects, etc..</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>R</manacost>
+    <cmc>1</cmc>
+    <colors>R</colors>
+    <coloridentity>R</coloridentity>
+    <pt>0/2</pt>
+    <loyalty>4</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set rarity="common" uuid="12345678-abcd-1234-abcd-1234567890ab" num="42" muid="123456" picurl="http://.../image.jpg">XXX</set>
+  <related>Another card name</related>
+  <reverse-related>Another card name</reverse-related>
+  <token>1</token>
+  <tablerow>3</tablerow>
+  <cipt>1</cipt>
+  <upsidedown>1</upsidedown>
+</card>
+</cards>
+</cockatrice_carddatabase>

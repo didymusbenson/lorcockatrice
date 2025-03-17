@@ -1,0 +1,22 @@
+color - > prop.colors (first initial)
+images.full -> set picurl
+full name -> name
+subtypes -> prop.type
+type -> prop.maintype
+rarity -> set rarity
+cost -> prop.cmc AND prop.manacost
+strength/willpower -> prop.pt (string "'x'/'y'")
+    NOTE: For locations, they have willpower but not strength.
+    NOTE: Locations have move cost. Do we bother?
+fullText -> text (may need escape characters fixed)
+
+
+SETS
+    SET
+        name -> SET[X]
+        longname -> name
+        settype -> "Lorcana" + type
+        releasedate -> releasedate
+
+
+ADD CARD TO SET BASED ON SETCODE!
